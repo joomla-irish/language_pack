@@ -2,6 +2,8 @@
 
 This is the home of the Team working on Irish translations for Joomla!
 
+/!\ **ATTENTION**: These packages are not yet approved by the Joomla Translations Working Group.
+One can find all the accredited language packs on this page: http://community.joomla.org/translations.html]
 
 # Joomla! Irish Translation Packs
 

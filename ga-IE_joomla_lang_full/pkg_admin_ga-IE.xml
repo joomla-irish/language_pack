@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="2.5">
+<name>Irish (Ireland) Language Pack</name>
+<packagename>site_ga-IE</packagename>
+<version>2.5.3</version>
+<url></url>
+<packager></packager>
+<packagerurl></packagerurl>
+<description>2.5.3v1 Joomla Irish (Ireland) Language Package</description>
+<files>
+        <file type="language" client="admin" id="en-IE">admin_ga-IE.zip</file>
+</files>
+</extension>
