@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- $Id: ga-IE.xml  2009-12-26 rvbgnu $ -->
+<metafile version="1.5" client="installation">
+	<name>Irish</name>
+    <version>1.5.9</version>
+    <creationDate>December 2009</creationDate>
+	<author>Joomla! As Gaeilge</author>
+	<authorEmail>rvbgnu@puma-it.com</authorEmail>
+	<authorUrl>joomlagaeilge.puma-it.ie</authorUrl>
+	<copyright>
+		Copyright (C) 2005 - 2009 Open Source Matters. All rights
+		reserved.
+	</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>Irish language file for web installer</description>
+	<metadata>
+		<name>Irish</name>
+		<tag>ga-IE</tag>
+		<rtl>0</rtl>
+		<locale>ga_IE.utf8, ga_IE.UTF-8, ga_IE, ga_IE@euro, ga_IE.iso88591, ga_IE.iso885915@euro, ga, irish, ie, irl, ireland</locale>
+		<winCodePage>iso-8859-1</winCodePage>
+		<backwardLang>irish</backwardLang>
+	</metadata>
+	<params />
+</metafile>
