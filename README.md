@@ -17,3 +17,7 @@ This is the installation files to start a new Joomla installation directly in Ir
 
 [ga-IE_joomla_installation](ga-IE_joomla_installation)
 
+
+# Resources
+
+https://docs.joomla.org/J3.x:Making_a_Language_Pack_for_Joomla
