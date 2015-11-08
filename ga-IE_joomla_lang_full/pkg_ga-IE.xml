@@ -1,17 +1,26 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<extension type="package" version="3.3">
-	<name>Irish ga-IE Language Pack</name>
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="package" version="3.4" method="upgrade">
+	<name>Irish_ga-IE</name>
 	<packagename>ga-IE</packagename>
-	<version>3.3.1.1</version>
-	<creationDate>2015-8-5</creationDate>
-	<author>John Duffy - Ireland</author>
-	<authorEmail>johnduffy@cgcf.ie</authorEmail>
-	<authorUrl>www.cgcf.ie</authorUrl>
-	<copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-<description>3.3.1.1 Joomla! Irish (Gaeilge) Language Package</description>
-<files>
-        <file type="language" client="administrator" id="ga-IE">admin_ga-IE.zip</file>
-        <file type="language" client="site" id="ga-IE">site_ga-IE.zip</file>
-</files>
+	<version>3.4.3.1</version>
+	<creationDate>2015-11-07</creationDate>
+	<author>Irish translation team</author>
+	<authorEmail>kscanne@gmail.com</authorEmail>
+	<authorUrl>http://borel.slu.edu/</authorUrl>
+	<copyright>Copyright (C) 2015 Open Source Matters, Inc. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<url></url>
+	<packager></packager>
+	<packagerurl></packagerurl>
+	<description><![CDATA[<div style="text-align:left;">
+<h3>Joomla! 3.4.3 Full Irish (ga-IE) Language Package - Version 3.4.3v1</h3>
+<h3>Pacáiste Gaeilge (ga-IE) le haghaidh Joomla! 3.4.3 - Leagan 3.4.3v1</h3>
+</div>]]></description>
+	<files>
+		<file type="language" client="site" id="ga-IE">site_ga-IE.zip</file>
+		<file type="language" client="administrator" id="ga-IE">admin_ga-IE.zip</file>
+	</files>
+	<updateservers>
+		<server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist_3.xml</server>
+	</updateservers>
 </extension>

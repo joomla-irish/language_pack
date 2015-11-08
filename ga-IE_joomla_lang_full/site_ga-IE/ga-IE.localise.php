@@ -9,12 +9,12 @@
 defined('_JEXEC') or die;
 
 /**
- * en-GB localise class
+ * ga-IE localise class
  *
  * @package  Joomla.Language
  * @since    1.6
  */
-abstract class En_USLocalise
+abstract class Ga_IELocalise
 {
 	/**
 	 * Returns the potential suffixes for a specific number of items
@@ -52,9 +52,16 @@ abstract class En_USLocalise
 	public static function getIgnoredSearchWords()
 	{
 		$search_ignore = array();
-		$search_ignore[] = "and";
+		$search_ignore[] = "ag";
+		$search_ignore[] = "agus";
+		$search_ignore[] = "an";
+		$search_ignore[] = "ar";
+		$search_ignore[] = "do";
+		$search_ignore[] = "go";
 		$search_ignore[] = "in";
-		$search_ignore[] = "Ar Siúl";
+		$search_ignore[] = "le";
+		$search_ignore[] = "na";
+		$search_ignore[] = "nó";
 		return $search_ignore;
 	}
 
