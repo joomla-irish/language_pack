@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="2.5" client="site" type="language" method="upgrade">
-	<name>Irish (Ireland)</name>
-    <tag>ga-IE</tag>
-	<version>2.5.3</version>
-	<creationDate>2009-12-26</creationDate>
-	<author>Irish Translation Team</author>
-	<authorEmail>rvbgnu@puma-it.com</authorEmail>
-	<authorUrl></authorUrl>
-	<copyright>Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved.</copyright>
+<extension version="3.3" client="site" type="language" method="upgrade">
+	<name>Irish (Gaeilge)</name>
+	<tag>ga-IE</tag>
+	<version>3.3.1.1</version>
+	<creationDate>2015-08-05</creationDate>
+	<author>John Duffy - Ireland</author>
+	<authorEmail>johnduffy@cgcf.ie</authorEmail>
+	<authorUrl>www.cgcf.ie</authorUrl>
+	<copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<description>Irish site language for Joomla 2.5</description>	
+	<description>ga-IE site language</description>
 	<files>
-        <filename>index.html</filename>
+		<filename>index.html</filename>
+		<filename>ga-IE.com_ajax.ini</filename>
+		<filename>ga-IE.com_config.ini</filename>
 		<filename>ga-IE.com_contact.ini</filename>
 		<filename>ga-IE.com_content.ini</filename>
 		<filename>ga-IE.com_finder.ini</filename>
@@ -20,14 +22,18 @@
 		<filename>ga-IE.com_messages.ini</filename>
 		<filename>ga-IE.com_newsfeeds.ini</filename>
 		<filename>ga-IE.com_search.ini</filename>
+		<filename>ga-IE.com_tags.ini</filename>
 		<filename>ga-IE.com_users.ini</filename>
 		<filename>ga-IE.com_weblinks.ini</filename>
 		<filename>ga-IE.com_wrapper.ini</filename>
 		<filename>ga-IE.files_joomla.sys.ini</filename>
 		<filename>ga-IE.finder_cli.ini</filename>
 		<filename>ga-IE.ini</filename>
+		<filename>ga-IE.lib_fof.sys.ini</filename>
+		<filename>ga-IE.lib_idna_convert.sys.ini</filename>
 		<filename>ga-IE.lib_joomla.ini</filename>
 		<filename>ga-IE.lib_joomla.sys.ini</filename>
+		<filename>ga-IE.lib_phpass.sys.ini</filename>
 		<filename>ga-IE.lib_phpmailer.sys.ini</filename>
 		<filename>ga-IE.lib_phputf8.sys.ini</filename>
 		<filename>ga-IE.lib_simplepie.sys.ini</filename>
@@ -72,6 +78,10 @@
 		<filename>ga-IE.mod_stats.sys.ini</filename>
 		<filename>ga-IE.mod_syndicate.ini</filename>
 		<filename>ga-IE.mod_syndicate.sys.ini</filename>
+		<filename>ga-IE.mod_tags_popular.ini</filename>
+		<filename>ga-IE.mod_tags_popular.sys.ini</filename>
+		<filename>ga-IE.mod_tags_similar.ini</filename>
+		<filename>ga-IE.mod_tags_similar.sys.ini</filename>
 		<filename>ga-IE.mod_users_latest.ini</filename>
 		<filename>ga-IE.mod_users_latest.sys.ini</filename>
 		<filename>ga-IE.mod_weblinks.ini</filename>
@@ -80,15 +90,12 @@
 		<filename>ga-IE.mod_whosonline.sys.ini</filename>
 		<filename>ga-IE.mod_wrapper.ini</filename>
 		<filename>ga-IE.mod_wrapper.sys.ini</filename>
-		<filename>ga-IE.pkg_joomla.sys.ini</filename>
-		<filename>ga-IE.tpl_atomic.ini</filename>
-		<filename>ga-IE.tpl_atomic.sys.ini</filename>
-		<filename>ga-IE.tpl_beez_20.ini</filename>
-		<filename>ga-IE.tpl_beez_20.sys.ini</filename>
-		<filename>ga-IE.tpl_beez5.ini</filename>
-		<filename>ga-IE.tpl_beez5.sys.ini</filename>
-		<filename file="meta">install.xml</filename>
+		<filename>ga-IE.tpl_beez3.ini</filename>
+		<filename>ga-IE.tpl_beez3.sys.ini</filename>
+		<filename>ga-IE.tpl_protostar.ini</filename>
+		<filename>ga-IE.tpl_protostar.sys.ini</filename>
 		<filename file="meta">ga-IE.xml</filename>
+		<filename file="meta">install.xml</filename>
 	</files>
-	<params />
+  <params />
 </extension>

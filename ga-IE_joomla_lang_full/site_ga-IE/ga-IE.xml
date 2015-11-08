@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile version="2.5" client="site">
-	<name>Irish (Ireland)</name>
-	<version>2.5.3</version>
-	<creationDate>2009-12-26</creationDate>
-	<author>Irish Translation Team</author>
-	<authorEmail>rvbgnu@puma-it.com</authorEmail>
-	<authorUrl></authorUrl>
-	<copyright>Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved.</copyright>
+<metafile version="3.0" client="Site">
+	<name>Irish (Gaeilge)</name>
+	<tag>ga-IE</tag>
+	<version>3.3.1.1</version>
+	<creationDate>2015-8-5</creationDate>
+	<author>John Duffy - Ireland</author>
+	<authorEmail>johnduffy@cgcf.ie</authorEmail>
+	<authorUrl>www.cgcf.ie</authorUrl>
+	<copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<description>Irish site language for Joomla 2.5</description>	
+	<description>ga-IE site language</description>
 	<metadata>
-		<name>Irish (Ireland)</name>
+		<name>Irish (Gaeilge)</name>
 		<tag>ga-IE</tag>
 		<rtl>0</rtl>
-		<locale>ga_IE.utf8, ga_IE.UTF-8, ga_IE, ga_IE@euro, ga_IE.iso88591, ga_IE.iso885915@euro, ga, irish, ie, irl, ireland</locale>
+		<locale>ga-IE.utf8, ga-IE.UTF-8, ga-IE, ga-IE, ga, irish, ireland</locale>
 		<firstDay>1</firstDay>
 	</metadata>
 	<params />
