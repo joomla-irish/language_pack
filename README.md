@@ -40,4 +40,9 @@ This is the installation files to start a new Joomla installation directly in Ir
 
 # Resources
 
+Irish flags (for language switcher)
+* main one for Joomla! distribution [ga_ie.gif](resources/Flags/ga_ie.gif)
+* more [flags with sources](resources/Flags)
+
+Making a Language Pack for Joomla
 https://docs.joomla.org/J3.x:Making_a_Language_Pack_for_Joomla
