@@ -2,17 +2,20 @@
 
 This is the home of the Team working on Irish translations for Joomla!
 
-# What is the Joomla Irish Language Localisation Project?
+# What is the Joomla Irish Language Project?
 
-The aim of the Joomla Irish Language Localisation Project is to provide an up-to-date translation of the core Joomla content management system (CMS) into Irish.  Additionally, some commonly used optional extensions may be translated also.  This is a significant project, and requires tens of thousand words to be translated for the core Joomla CMS alone.
+The aim of the Joomla Irish Language Localisation Project is to provide an up-to-date translation of the core Joomla content management system (CMS) into Irish. Additionally, some commonly used optional extensions may be translated also. This is a significant project, and requires tens of thousand words to be translated for the core Joomla CMS alone.
 
-Joomla can be used to create a single language website (e.g. Irish only, or English only), or a multilingual website (English, Irish, French, Spanish, etc).  Each language requires the core Joomla CMS to be translated into that language, so that the correct text is displayed as required.  For example, when filling out a contact form: ‘You must enter a subject’ becomes ‘Ní mór duit ábhar a chur isteach’  With Joomla translated into Irish, these texts are immediately available in a new website, even before any user content is added.
+Joomla can be used to create a single language website (e.g. Irish only, or English only), or a multilingual website (English, Irish, French, Spanish, etc). Each language requires the core Joomla CMS to be translated into that language, so that the correct text is displayed as required. For example, when filling out a contact form: ‘You must enter a subject’ becomes ‘Ní mór duit ábhar a chur isteach’ With Joomla translated into Irish, these texts are immediately available in a new website, even before any user content is added.
 
 Once the translation is complete, maintenance work will be required occasionally as smaller updates with new texts need to be translated.
+
 More about Joomla: https://www.joomla.org/about-joomla.html
 
 
-/!\ **ATTENTION**: These packages are not yet approved by the Joomla Translations Working Group. (08 November 2015)
+# ATTENTION
+
+These packages are not yet approved by the Joomla Translations Working Group. (08 November 2015)
 One can find all the accredited language packs on this page: http://community.joomla.org/translations.html
 
 # Joomla! Irish Translation Packs
