@@ -3,11 +3,11 @@
         version="3.4"
         client="installation">
 	<name>Irish (Ireland)/name>
-	<version>3.4.5v1</version>
+	<version>3.4.5</version>
 	<creationDate>2015-11-08</creationDate>
 	<author>Irish translation team</author>
-	<authorEmail>kscanne@gmail.com</authorEmail>
-	<authorUrl>http://borel.slu.edu/</authorUrl>
+	<authorEmail></authorEmail>
+	<authorUrl></authorUrl>
 	<copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <description></description>
