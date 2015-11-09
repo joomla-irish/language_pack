@@ -2,7 +2,17 @@
 
 This is the home of the Team working on Irish translations for Joomla!
 
-/!\ **ATTENTION**: These packages are not yet approved by the Joomla Translations Working Group.
+# What is the Joomla Irish Language Localisation Project?
+
+The aim of the Joomla Irish Language Localisation Project is to provide an up-to-date translation of the core Joomla content management system (CMS) into Irish.  Additionally, some commonly used optional extensions may be translated also.  This is a significant project, and requires tens of thousand words to be translated for the core Joomla CMS alone.
+
+Joomla can be used to create a single language website (e.g. Irish only, or English only), or a multilingual website (English, Irish, French, Spanish, etc).  Each language requires the core Joomla CMS to be translated into that language, so that the correct text is displayed as required.  For example, when filling out a contact form: ‘You must enter a subject’ becomes ‘Ní mór duit ábhar a chur isteach’  With Joomla translated into Irish, these texts are immediately available in a new website, even before any user content is added.
+
+Once the translation is complete, maintenance work will be required occasionally as smaller updates with new texts need to be translated.
+More about Joomla: https://www.joomla.org/about-joomla.html
+
+
+/!\ **ATTENTION**: These packages are not yet approved by the Joomla Translations Working Group. (08 November 2015)
 One can find all the accredited language packs on this page: http://community.joomla.org/translations.html
 
 # Joomla! Irish Translation Packs
@@ -11,11 +21,18 @@ This is the language files to install in an existing Joomla website.
 
 [ga-IE_joomla_lang_full](ga-IE_joomla_lang_full)
 
+
 # Joomla! Irish Installation files
 
 This is the installation files to start a new Joomla installation directly in Irish.
 
 [ga-IE_joomla_installation](ga-IE_joomla_installation)
+
+
+# Joomla! Irish Translation for Extensions
+
+We aim to provide Irish translation for some popular [Joomla extensions](http://extensions.joomla.org/). Please get in touch if you are interested!
+We will create on GitHub appropriate repositories to get this goal.
 
 
 # Forum
@@ -40,9 +57,9 @@ This is the installation files to start a new Joomla installation directly in Ir
 
 # Resources
 
-Irish flags (for language switcher)
-* main one for Joomla! distribution [ga_ie.gif](resources/Flags/ga_ie.gif)
-* more [flags with sources](resources/Flags)
+* Irish flags (for language switcher)
+  * main one for Joomla! distribution [ga_ie.gif](resources/Flags/ga_ie.gif)
+  * more [flags with sources](resources/Flags)
 
-Making a Language Pack for Joomla
-https://docs.joomla.org/J3.x:Making_a_Language_Pack_for_Joomla
+* Making a Language Pack for Joomla
+  https://docs.joomla.org/J3.x:Making_a_Language_Pack_for_Joomla
