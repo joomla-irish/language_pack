@@ -2,8 +2,8 @@
 <extension version="3.4" client="administrator" type="language" method="upgrade">
 	<name>Irish (ga-IE)</name>
 	<tag>ga-IE</tag>
-	<version>3.4.3.1</version>
-	<creationDate>2015-11-07</creationDate>
+	<version>3.4.5v1</version>
+	<creationDate>2015-11-08</creationDate>
 	<author>Irish translation team</author>
 	<authorEmail>kscanne@gmail.com</authorEmail>
 	<authorUrl>http://borel.slu.edu/</authorUrl>
