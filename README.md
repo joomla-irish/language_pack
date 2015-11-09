@@ -64,5 +64,7 @@ We will create on GitHub appropriate repositories to get this goal.
   * main one for Joomla! distribution [ga_ie.gif](resources/Flags/ga_ie.gif)
   * more [flags with sources](resources/Flags)
 
+* [Credits (past and present contributors)](CREDITS.md)
+
 * Making a Language Pack for Joomla
   https://docs.joomla.org/J3.x:Making_a_Language_Pack_for_Joomla
