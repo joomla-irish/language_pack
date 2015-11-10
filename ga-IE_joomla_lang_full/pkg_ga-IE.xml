@@ -2,8 +2,8 @@
 <extension type="package" version="3.4" method="upgrade">
 	<name>Irish_ga-IE</name>
 	<packagename>ga-IE</packagename>
-	<version>3.4.5.1</version>
-	<creationDate>2015-11-08</creationDate>
+	<version>3.5.0.1</version>
+	<creationDate>2015-11-10</creationDate>
 	<author>Irish translation team</author>
 	<authorEmail>kscanne@gmail.com</authorEmail>
 	<authorUrl>http://borel.slu.edu/</authorUrl>
@@ -13,8 +13,8 @@
 	<packager></packager>
 	<packagerurl></packagerurl>
 	<description><![CDATA[<div style="text-align:left;">
-<h3>Joomla! 3.4.5 Full Irish (ga-IE) Language Package - Version 3.4.5.1</h3>
-<h3>Pacáiste Gaeilge (ga-IE) le haghaidh Joomla! 3.4.5 - Leagan 3.4.5.1</h3>
+<h3>Joomla! 3.5.0 Full Irish (ga-IE) Language Package - Version 3.5.0.1</h3>
+<h3>Pacáiste Gaeilge (ga-IE) le haghaidh Joomla! 3.5.0 - Leagan 3.5.0.1</h3>
 </div>]]></description>
 	<files>
 		<file type="language" client="site" id="ga-IE">site_ga-IE.zip</file>
