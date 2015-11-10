@@ -12,4 +12,4 @@ Thank you for all the contributors of this translation work, with the help of wh
 * Steve Jacobs
 
 
-*If you think some names are missing or incorrect, or for any other concerns, please feel free to contact the [Team](README.md)*.
+*If you think some names are missing or incorrect, or for any other concerns, please feel free to contact the [Team](README.md#team-members)*.
