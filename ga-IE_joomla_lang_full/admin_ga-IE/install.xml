@@ -219,7 +219,6 @@
         <filename>ga-IE.tpl_isis.ini</filename>
         <filename>ga-IE.tpl_isis.sys.ini</filename>
 		<filename>ga-IE.localise.php</filename>
-		<filename>index.html</filename>
 		<filename file="meta">install.xml</filename>
 		<filename file="meta">ga-IE.xml</filename>
 	</files>
