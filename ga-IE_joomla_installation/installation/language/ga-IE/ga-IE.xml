@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile
-        version="3.4"
-        client="installation">
-	<name>Irish (Ireland)/name>
+<metafile version="3.4" client="installation">
+	<name>Irish (ga-IE)</name>
 	<version>3.4.5v1</version>
-	<creationDate>2015-11-08</creationDate>
+	<creationDate>2015-11-10</creationDate>
 	<author>Irish translation team</author>
 	<authorEmail>kscanne@gmail.com</authorEmail>
 	<authorUrl>http://borel.slu.edu/</authorUrl>
 	<copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-    <description></description>
-    <files>
-        <filename>ga-IE.ini</filename>
-    </files>
-    <metadata>
-        <name>Irish (Ireland)</name>
-        <tag>ga-IE</tag>
-        <rtl>0</rtl>
-    </metadata>
-    <params />
+	<description>Irish installation language</description>
+	<files><filename>ga-IE.ini</filename></files>
+	<metadata>
+		<name>Gaeilge (Éire)</name>
+		<tag>ga-IE</tag>
+		<rtl>0</rtl>
+	</metadata>
+	<params />
 </metafile>
