@@ -15,21 +15,27 @@ More about Joomla: https://www.joomla.org/about-joomla.html
 
 # ATTENTION
 
-These packages are not yet approved by the Joomla Translations Working Group. (08 November 2015)
+These packages are not yet approved by the Joomla Translations Working Group. (10 November 2015)
+
 One can find all the accredited language packs on this page: http://community.joomla.org/translations.html
+
 
 # Joomla! Irish Translation Packs
 
 This is the language files to install in an existing Joomla website.
 
-[ga-IE_joomla_lang_full](ga-IE_joomla_lang_full)
+* Download the [latest release](/releases/latest)
+* Download the [3.4.5v1 pre-release](https://github.com/joomla-irish/language_pack/releases/download/3.4.5v1/ga-IE_joomla_lang_full_3.4.5v1.zip)
+* Browse the source files: [ga-IE_joomla_lang_full](ga-IE_joomla_lang_full)
 
 
 # Joomla! Irish Installation files
 
 This is the installation files to start a new Joomla installation directly in Irish.
 
-[ga-IE_joomla_installation](ga-IE_joomla_installation)
+* Download the [latest release](/releases/latest)
+* Download the [3.4.5v1 pre-release](https://github.com/joomla-irish/language_pack/releases/download/3.4.5v1/ga-IE-installation_3.4.5v1.zip)
+* Browse the source files: [ga-IE_joomla_installation](ga-IE_joomla_installation)
 
 
 # Joomla! Irish Translation for Extensions
@@ -47,8 +53,8 @@ We will create on GitHub appropriate repositories to get this goal.
 
 # Team Members
 
-* [kscanne](http://forum.joomla.org/memberlist.php?mode=viewprofile&u=781792)
-* [batmanjd](http://forum.joomla.org/memberlist.php?mode=viewprofile&u=46922)
+* Kevin Scannell [kscanne](http://forum.joomla.org/memberlist.php?mode=viewprofile&u=781792)
+* John Duffy [batmanjd](http://forum.joomla.org/memberlist.php?mode=viewprofile&u=46922)
 * Hervé Boinnard [rvbgnu](http://forum.joomla.org/memberlist.php?mode=viewprofile&u=355292) or Twitter [@Puma_IT](https://twitter.com/Puma_IT)
 
 
