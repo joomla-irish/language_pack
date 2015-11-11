@@ -4,7 +4,7 @@ Today is the official release of the Joomla! Irish Translation. The team and the
 [todo]
 
 
-# About is the Joomla Irish Language Project
+# About the Joomla Irish Language Project
 
 The aim of the Joomla Irish Language Localisation Project is to provide an up-to-date translation of the core Joomla content management system (CMS) into Irish. Additionally, some commonly used optional extensions may be translated also. This is a significant project, and requires tens of thousand words to be translated for the core Joomla CMS alone.
 
