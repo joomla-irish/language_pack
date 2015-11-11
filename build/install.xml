@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="POINTVERSION" client="PACKTYPE" type="language" method="upgrade">
+	<name>Irish (ga-IE)</name>
+	<tag>ga-IE</tag>
+	<version>FULLVERSION</version>
+	<creationDate>CREATIONDATE</creationDate>
+	<author>Irish translation team</author>
+	<authorEmail>kscanne@gmail.com</authorEmail>
+	<authorUrl>http://borel.slu.edu/</authorUrl>
+	<copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>ga-IE PACKTYPE language</description>
+	<files>
+		<filename>ga-IE.localise.php</filename>
+		<filename file="meta">install.xml</filename>
+		<filename file="meta">ga-IE.xml</filename>
+	</files>
+	<params />
+</extension>
