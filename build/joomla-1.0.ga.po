@@ -12218,7 +12218,7 @@ msgctxt "INSTL_DATABASE_INVALID_NAME"
 msgid ""
 "MySQL versions previous to 5.1.6 may not contain periods or other &quot;"
 "special&quot; characters in the name. Your version is: %s"
-msgstr ""
+msgstr "Ní cheadaítear poncanna ná carachtair speisialta eile san ainm i leaganacha de MySQL roimh 5.1.6. Seo é do leagansa: %s"
 
 msgctxt "INSTL_DATABASE_NAME_INVALID_SPACES"
 msgid "MySQL database names and table names may not begin or end with spaces."
