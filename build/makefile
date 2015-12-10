@@ -1,7 +1,7 @@
 GITREPO=${HOME}/seal/clones/joomla-cms
 IRISHREPO=${HOME}/seal/language_pack
 # see $(GITREPO)/language/en-GB/install.xml for these values
-POINTVERSION=3.4
+POINTVERSION=3.5
 VERSION=3.5.0
 # can increment this without updating Joomla! release
 LANGPACKREV=1
