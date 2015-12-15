@@ -2,6 +2,19 @@
 
 This is the home of the Team working on Irish translations for Joomla!
 
+# Joomla! Accredited language pack
+
+The language pack for Joomla 3.4.5 and 3.5.0 have been [approved by the Joomla Translations Working Group](http://community.joomla.org/translations/joomla-3-translations.html#ga-ie) in November 2015.
+
+The new language pack is now available from the Joomla back end (Extensions: Install Languages) and from the translations page
+http://community.joomla.org/translations/joomla-3-translations.html
+and pre-releases (not accredited) are available for older Joomla versions
+https://github.com/joomla-irish/language_pack/releases
+
+The Irish language pack has been merged into the code for the upcoming release, could also be selected in Joomla as the default install language starting in the official release of Joomla 3.5. 
+
+One can find all the accredited language packs on this page: http://community.joomla.org/translations.html
+
 # What is the Joomla Irish Language Project?
 
 The aim of the Joomla Irish Language Localisation Project is to provide an up-to-date translation of the core Joomla content management system (CMS) into Irish. Additionally, some commonly used optional extensions may be translated also. This is a significant project, and requires tens of thousand words to be translated for the core Joomla CMS alone.
@@ -11,13 +24,6 @@ Joomla can be used to create a single language website (e.g. Irish only, or Engl
 Once the translation is complete, maintenance work will be required occasionally as smaller updates with new texts need to be translated.
 
 More about Joomla: https://www.joomla.org/about-joomla.html
-
-
-# ATTENTION
-
-These packages are not yet approved by the Joomla Translations Working Group. (10 November 2015)
-
-One can find all the accredited language packs on this page: http://community.joomla.org/translations.html
 
 
 # Joomla! Irish Translation Packs
