@@ -4,7 +4,7 @@ This is the home of the Team working on Irish translations for Joomla!
 
 # Joomla! Accredited language pack
 
-The language pack for Joomla 3.4.5 and 3.5.0 have been [approved by the Joomla Translations Working Group](http://community.joomla.org/translations/joomla-3-translations.html#ga-ie) in November 2015.
+The language packs for Joomla 3.4.5 (and 3.5.0-beta) have been [approved by the Joomla Translations Working Group](http://community.joomla.org/translations/joomla-3-translations.html#ga-ie) in November 2015.
 
 The new language pack is now available from the Joomla back end (Extensions: Install Languages) and from the translations page
 http://community.joomla.org/translations/joomla-3-translations.html
@@ -31,7 +31,7 @@ More about Joomla: https://www.joomla.org/about-joomla.html
 This is the language files to install in an existing Joomla website.
 
 * Download the [latest release](/releases/latest)
-* Download the [3.4.5v1 pre-release](https://github.com/joomla-irish/language_pack/releases/download/3.4.5v1/ga-IE_joomla_lang_full_3.4.5v1.zip)
+* Download the [3.4.5.2 release](https://github.com/joomla-irish/language_pack/releases/download/3.4.5.2/ga-IE_joomla_lang_full_3.4.5v2.zip)
 * Browse the source files: [ga-IE_joomla_lang_full](ga-IE_joomla_lang_full)
 
 
@@ -40,7 +40,7 @@ This is the language files to install in an existing Joomla website.
 This is the installation files to start a new Joomla installation directly in Irish.
 
 * Download the [latest release](/releases/latest)
-* Download the [3.4.5v1 pre-release](https://github.com/joomla-irish/language_pack/releases/download/3.4.5v1/ga-IE-installation_3.4.5v1.zip)
+* Download the [3.4.5.2 release](https://github.com/joomla-irish/language_pack/releases/download/3.4.5.2/ga-IE-installation_3.4.5v2.zip)
 * Browse the source files: [ga-IE_joomla_installation](ga-IE_joomla_installation)
 
 
@@ -59,9 +59,9 @@ We will create on GitHub appropriate repositories to get this goal.
 
 # Team Members
 
-* Kevin Scannell [kscanne](http://forum.joomla.org/memberlist.php?mode=viewprofile&u=781792)
-* John Duffy [batmanjd](http://forum.joomla.org/memberlist.php?mode=viewprofile&u=46922)
-* Hervé Boinnard [rvbgnu](http://forum.joomla.org/memberlist.php?mode=viewprofile&u=355292) or Twitter [@Puma_IT](https://twitter.com/Puma_IT)
+* Kevin Scannell ([kscanne](http://forum.joomla.org/memberlist.php?mode=viewprofile&u=781792))
+* John Duffy ([batmanjd](http://forum.joomla.org/memberlist.php?mode=viewprofile&u=46922))
+* Hervé Boinnard ([rvbgnu](http://forum.joomla.org/memberlist.php?mode=viewprofile&u=355292) or Twitter [@Puma_IT](https://twitter.com/Puma_IT))
 
 
 # Contributing
