@@ -3,11 +3,12 @@ Thank you for all the contributors of this translation work, with the help of wh
 # Current releases (Joomla 3.x) and previous releases
 
 * Kevin Scannell
-* Murchadh Mór
+* Eoin Ó Murchú
 * Síne Nic an Ailí
 * Clíodhna Ní Mhurchú
 * Andrew McCarthy
 * Hervé Boinnard
+* Laura Dempsey
 * John Duffy
 * Steve Jacobs
 
