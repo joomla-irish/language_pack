@@ -10374,8 +10374,8 @@ msgid ""
 "the Joomla User Interface library (JUI)."
 msgstr ""
 "Ag leanúint le téama an spáis (Solarflare ó 1.0 agus Milkyway ó 1.5), is é "
-"Protostar teimpléad suímh Joomla 3 bunaithe ar Bootstrap agus ar "
-"sheoladh leabharlann chomhéadan úsáideora Joomla (JUI)."
+"Protostar teimpléad suímh Joomla 3 bunaithe ar Bootstrap agus ar sheoladh "
+"leabharlann chomhéadan úsáideora Joomla (JUI)."
 
 msgctxt "TPL_PROTOSTAR_BACKGROUND_COLOR_DESC"
 msgid ""
@@ -10731,6 +10731,46 @@ msgstr ""
 msgctxt "PLG_RECAPTCHA_ERROR_RECAPTCHA_NOT_REACHABLE"
 msgid "Unable to contact the reCAPTCHA verify server."
 msgstr "Ní féidir ceangal leis an bhfreastalaí reCAPTCHA."
+
+msgctxt "PLG_RECAPTCHA_CUSTOM_LANG"
+msgid "true"
+msgstr "true"
+
+msgctxt "PLG_RECAPTCHA_INSTRUCTIONS_VISUAL"
+msgid "Type the two words:"
+msgstr "Clóscríobh an dá fhocal:"
+
+msgctxt "PLG_RECAPTCHA_INSTRUCTIONS_AUDIO"
+msgid "Type what you hear:"
+msgstr "Clóscríobh an rud a chloiseann tú:"
+
+msgctxt "PLG_RECAPTCHA_PLAY_AGAIN"
+msgid "Play sound again"
+msgstr "Seinn an fhuaim arís"
+
+msgctxt "PLG_RECAPTCHA_CANT_HEAR_THIS"
+msgid "Download sound as MP3"
+msgstr "Íoslódáil an fhuaim mar MP3"
+
+msgctxt "PLG_RECAPTCHA_VISUAL_CHALLENGE"
+msgid "Get a visual challenge"
+msgstr "Faigh dúshlán amhairc"
+
+msgctxt "PLG_RECAPTCHA_AUDIO_CHALLENGE"
+msgid "Get an audio challenge"
+msgstr "Faigh dúshlán fuaime"
+
+msgctxt "PLG_RECAPTCHA_REFRESH_BTN"
+msgid "Get a new challenge"
+msgstr "Faigh dúshlán nua"
+
+msgctxt "PLG_RECAPTCHA_HELP_BTN"
+msgid "Help"
+msgstr "Cabhair"
+
+msgctxt "PLG_RECAPTCHA_INCORRECT_TRY_AGAIN"
+msgid "Incorrect. Try again."
+msgstr "Mícheart. Bain triail eile as."
 
 msgctxt "PLG_CONTENT_PAGEBREAK"
 msgid "Content - Page Break"

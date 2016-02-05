@@ -34,7 +34,7 @@ pkg_ga-IE.xml: pkg-template.xml makefile
 admin_ga-IE.zip:
 	rm -Rf ga-IE
 	mkdir ga-IE
-	(cd $(GITREPO)/administrator/language/en-GB; ls *.ini) | while read x; do cat $(GITREPO)/administrator/language/en-GB/$$x | perl joomla.pl > ga-IE/`echo $$x | sed 's/^en-GB/ga-IE/'`; done
+	(cd $(GITREPO)/administrator/language/en-GB; ls *.ini) | while read x; do cat $(GITREPO)/administrator/language/en-GB/$$x | sed 's/^;PLG_RECAPTCHA/PLG_RECAPTCHA/' | perl joomla.pl > ga-IE/`echo $$x | sed 's/^en-GB/ga-IE/'`; done
 	cp ga-IE.xml install.xml ga-IE.localise.php ga-IE/
 	(cd ga-IE; ls *.ini | sed 's/.*/        <filename>&<\/filename>/' > temp.txt; sed -i '/<files>/r temp.txt' install.xml; sed -i "s/PACKTYPE/administrator/; s/POINTVERSION/$(POINTVERSION)/g; s/VVERSION/$(VVERSION)/g; s/FULLVERSION/$(FULLVERSION)/g; s/VERSION/$(VERSION)/g; s/CREATIONDATE/`date +20%y-%m-%d`/" *.xml)
 	rm -f ga-IE/temp.txt
@@ -59,6 +59,7 @@ ini.txt: $(GITREPO)/language/en-GB/*.ini $(GITREPO)/administrator/language/en-GB
 	sed '$$s/$$/\n/' $(GITREPO)/language/en-GB/*.ini > $@
 	(cd $(GITREPO)/administrator/language/en-GB; ls *.ini) | keepif admin.txt | sed "s@^@$(GITREPO)/administrator/language/en-GB/@" | xargs sed '$$s/$$/\n/'  >> $@
 	sed '$$s/$$/\n/' $(GITREPO)/installation/language/en-GB/en-GB.ini >> $@
+	sed -i 's/^;PLG_RECAPTCHA/PLG_RECAPTCHA/' $@
 
 joomla.pot: ini.txt
 	(echo 'msgid ""'; echo 'msgstr ""'; echo '"Content-Type: text/plain; charset=UTF-8\\n"'; echo) > $@
