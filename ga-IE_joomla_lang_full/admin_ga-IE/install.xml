@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.5" client="administrator" type="language" method="upgrade">
-	<name>Irish (ga-IE)</name>
-	<tag>ga-IE</tag>
-	<version>3.5.0.2</version>
-	<creationDate>2016-02-05</creationDate>
-	<author>Irish translation team</author>
-	<authorEmail>kscanne@gmail.com</authorEmail>
-	<authorUrl>http://borel.slu.edu/</authorUrl>
-	<copyright>Copyright (C) 2005 - 2016 Open Source Matters. All rights reserved.</copyright>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<description>ga-IE administrator language</description>
-	<files>
+    <name>Irish (ga-IE)</name>
+    <tag>ga-IE</tag>
+    <version>3.5.1.1</version>
+    <creationDate>2016-04-10</creationDate>
+    <author>Irish translation team</author>
+    <authorEmail>kscanne@gmail.com</authorEmail>
+    <authorUrl>http://borel.slu.edu/</authorUrl>
+    <copyright>Copyright (C) 2005 - 2016 Open Source Matters. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <description>ga-IE administrator language</description>
+    <files>
         <filename>ga-IE.com_admin.ini</filename>
         <filename>ga-IE.com_admin.sys.ini</filename>
         <filename>ga-IE.com_ajax.ini</filename>
@@ -218,9 +218,9 @@
         <filename>ga-IE.tpl_hathor.sys.ini</filename>
         <filename>ga-IE.tpl_isis.ini</filename>
         <filename>ga-IE.tpl_isis.sys.ini</filename>
-		<filename>ga-IE.localise.php</filename>
-		<filename file="meta">install.xml</filename>
-		<filename file="meta">ga-IE.xml</filename>
-	</files>
-	<params />
+        <filename>ga-IE.localise.php</filename>
+        <filename file="meta">install.xml</filename>
+        <filename file="meta">ga-IE.xml</filename>
+    </files>
+    <params/>
 </extension>
