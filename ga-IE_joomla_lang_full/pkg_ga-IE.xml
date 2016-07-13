@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="package" version="3.5" method="upgrade">
-	<name>Irish_ga-IE</name>
+	<name>Irish (ga-IE) Language Pack</name>
 	<packagename>ga-IE</packagename>
 	<version>3.5.1.1</version>
 	<creationDate>2016-06-21</creationDate>
