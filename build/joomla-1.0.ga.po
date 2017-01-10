@@ -9462,7 +9462,7 @@ msgctxt "MOD_LANGUAGES_SPACER_USENAME_LABEL"
 msgid ""
 "<u>As 'Use Dropdown' and 'Use Image Flags' have been set to 'No',<br /> the "
 "switcher will display language names.</u>"
-msgstr ""
+msgstr "<u>Toisc nach bhfuil 'Úsáid Roghchlár Anuas' ná 'Úsáid Bratacha Íomhá' socraithe,<br /> taispeánfar ainmneacha na dteangacha sa roghnóir.</u>"
 
 msgctxt "MOD_LANGUAGES_XML_DESCRIPTION"
 msgid ""
@@ -13223,19 +13223,19 @@ msgstr "Tacaíocht JSON"
 
 msgctxt "INSTL_MAGIC_QUOTES_GPC"
 msgid "Magic Quotes GPC Off"
-msgstr ""
+msgstr "Athfhriotail Dhraíochtacha ar GET/POST/Fianáin: As"
 
 msgctxt "INSTL_MAGIC_QUOTES_RUNTIME"
 msgid "Magic Quotes Runtime"
-msgstr ""
+msgstr "Athfhriotail Dhraíochtacha ar Shonraí Am-Rite"
 
 msgctxt "INSTL_MB_LANGUAGE_IS_DEFAULT"
 msgid "MB Language is Default"
-msgstr ""
+msgstr "Teanga Ilbheart mar Réamhshocrú"
 
 msgctxt "INSTL_MB_STRING_OVERLOAD_OFF"
 msgid "MB String Overload Off"
-msgstr ""
+msgstr "Forualach Teaghráin Ilbheart: As"
 
 msgctxt "INSTL_MCRYPT_SUPPORT_AVAILABLE"
 msgid "Mcrypt Support"
@@ -13290,7 +13290,7 @@ msgstr "Leagan PHP >= %s"
 
 msgctxt "INSTL_REGISTER_GLOBALS"
 msgid "Register Globals Off"
-msgstr ""
+msgstr "Clárú Athróg Domhanda: As"
 
 msgctxt "INSTL_SAFE_MODE"
 msgid "Safe Mode"
