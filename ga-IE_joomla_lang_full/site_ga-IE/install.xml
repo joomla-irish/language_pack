@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="3.6" client="site" type="language" method="upgrade">
+<extension version="3.7" client="site" type="language" method="upgrade">
 	<name>Irish (ga-IE)</name>
 	<tag>ga-IE</tag>
-	<version>3.6.4.1</version>
-	<creationDate>2016-11-08</creationDate>
+	<version>3.7.0.1</version>
+	<creationDate>2017-02-04</creationDate>
 	<author>Irish translation team</author>
 	<authorEmail>kscanne@gmail.com</authorEmail>
 	<authorUrl>http://borel.slu.edu/</authorUrl>
-	<copyright>Copyright (C) 2005 - 2016 Open Source Matters. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2017 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>ga-IE site language</description>
 	<files>
