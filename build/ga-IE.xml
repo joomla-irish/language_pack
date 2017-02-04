@@ -4,10 +4,11 @@
 	<version>FULLVERSION</version>
 	<creationDate>CREATIONDATE</creationDate>
 	<author>Irish translation team</author>
-	<copyright>Copyright (C) 2005 - 2016 Open Source Matters. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2017 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<metadata>
-		<name>Gaeilge (Éire)</name>
+		<name>Irish (Ireland)</name>
+		<nativeName>Gaeilge (Éire)</nativeName>
 		<tag>ga-IE</tag>
 		<rtl>0</rtl>
 		<locale>ga_IE.utf8, ga_IE.UTF-8, ga_IE, gle_IE, ga, irish, gaeilge, ireland, eire, éire</locale>
