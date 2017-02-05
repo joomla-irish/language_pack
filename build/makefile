@@ -21,7 +21,7 @@ ga-IE-installation_$(VERSION)v1.zip:
 	mkdir installation/language/ga-IE
 	cat $(GITREPO)/installation/language/en-GB/en-GB.ini | perl joomla.pl > installation/language/ga-IE/ga-IE.ini
 	cp installation/language/ga-IE/ga-IE.ini $(IRISHREPO)/ga-IE_joomla_installation/installation/language/ga-IE/ga-IE.ini
-	cat ga-IE.xml | sed "s/PACKTYPE/installation/; s/POINTVERSION/$(POINTVERSION)/g; s/VVERSION/$(VVERSION)/g; s/FULLVERSION/$(FULLVERSION)/g; s/VERSION/$(VERSION)/g; s/CREATIONDATE/`date +20%y-%m-%d`/" | sed '/<description>/s/.*/&\n\t<files><filename>ga-IE.ini<\/filename><\/files>/' | sed '/<locale>/d; /<firstDay>/d; /<weekEnd>/d' > installation/language/ga-IE/ga-IE.xml
+	cat ga-IE.xml | sed "s/PACKTYPE/installation/; s/POINTVERSION/$(POINTVERSION)/g; s/VVERSION/$(VVERSION)/g; s/FULLVERSION/$(FULLVERSION)/g; s/VERSION/$(VERSION)/g; s/CREATIONDATE/`date +20%y-%m-%d`/" | sed '/<description>/s/.*/&\n\t<files>\n\t\t<filename>ga-IE.ini<\/filename>\n\t<\/files>/' | sed '/<locale>/d; /<firstDay>/d; /<weekEnd>/d' | sed '/<description>/d' > installation/language/ga-IE/ga-IE.xml
 	cp installation/language/ga-IE/ga-IE.xml $(IRISHREPO)/ga-IE_joomla_installation/installation/language/ga-IE/ga-IE.xml
 	zip -r $@ installation/
 
