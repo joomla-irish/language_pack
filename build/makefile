@@ -36,7 +36,7 @@ admin_ga-IE.zip:
 	mkdir ga-IE
 	(cd $(GITREPO)/administrator/language/en-GB; ls *.ini) | while read x; do cat $(GITREPO)/administrator/language/en-GB/$$x | sed 's/^;PLG_RECAPTCHA/PLG_RECAPTCHA/' | perl joomla.pl > ga-IE/`echo $$x | sed 's/^en-GB/ga-IE/'`; done
 	cp ga-IE.xml install.xml ga-IE.localise.php ga-IE/
-	(cd ga-IE; ls *.ini | sed 's/.*/        <filename>&<\/filename>/' > temp.txt; sed -i '/<files>/r temp.txt' install.xml; sed -i "s/PACKTYPE/administrator/; s/POINTVERSION/$(POINTVERSION)/g; s/VVERSION/$(VVERSION)/g; s/FULLVERSION/$(FULLVERSION)/g; s/VERSION/$(VERSION)/g; s/CREATIONDATE/`date +20%y-%m-%d`/" *.xml)
+	(cd ga-IE; ls *.ini | sed 's/.*/\t\t<filename>&<\/filename>/' > temp.txt; sed -i '/<files>/r temp.txt' install.xml; sed -i "s/PACKTYPE/administrator/; s/POINTVERSION/$(POINTVERSION)/g; s/VVERSION/$(VVERSION)/g; s/FULLVERSION/$(FULLVERSION)/g; s/VERSION/$(VERSION)/g; s/CREATIONDATE/`date +20%y-%m-%d`/" *.xml)
 	rm -f ga-IE/temp.txt
 	(cd ga-IE; zip $@ *.ini *.xml *.php; mv $@ ..; cp *.ini *.xml *.php $(IRISHREPO)/ga-IE_joomla_lang_full/admin_ga-IE/)
 
@@ -45,7 +45,7 @@ site_ga-IE.zip:
 	mkdir ga-IE
 	(cd $(GITREPO)/language/en-GB; ls *.ini) | while read x; do cat $(GITREPO)/language/en-GB/$$x | perl joomla.pl > ga-IE/`echo $$x | sed 's/^en-GB/ga-IE/'`; done
 	cp ga-IE.xml install.xml ga-IE.localise.php ga-IE/
-	(cd ga-IE; ls *.ini | sed 's/.*/        <filename>&<\/filename>/' > temp.txt; sed -i '/<files>/r temp.txt' install.xml; sed -i "s/PACKTYPE/site/; s/POINTVERSION/$(POINTVERSION)/g; s/VVERSION/$(VVERSION)/g; s/FULLVERSION/$(FULLVERSION)/g; s/VERSION/$(VERSION)/g; s/CREATIONDATE/`date +20%y-%m-%d`/" *.xml)
+	(cd ga-IE; ls *.ini | sed 's/.*/\t\t<filename>&<\/filename>/' > temp.txt; sed -i '/<files>/r temp.txt' install.xml; sed -i "s/PACKTYPE/site/; s/POINTVERSION/$(POINTVERSION)/g; s/VVERSION/$(VVERSION)/g; s/FULLVERSION/$(FULLVERSION)/g; s/VERSION/$(VERSION)/g; s/CREATIONDATE/`date +20%y-%m-%d`/" *.xml)
 	rm -f ga-IE/temp.txt
 	(cd ga-IE; zip $@ *.ini *.xml *.php; mv $@ ..; cp *.ini *.xml *.php $(IRISHREPO)/ga-IE_joomla_lang_full/site_ga-IE/)
 
