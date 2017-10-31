@@ -1,0 +1,25 @@
+
+These build/translation instructions are now defunct.  Translation
+work is all now down on the CrowdIn website.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Keep upstream code (for en-GB sources in the build process below) here:
+$ cd seal/clones
+$ git clone https://github.com/joomla/joomla-cms.git
+
+(switch to “staging” branch?)
+
+To Translate:
+
+$ cd ~/seal/language_pack
+$ git pull
+$ cd build
+$ make clean
+$ make updategit    [ does a git pull in ~/seal/clones/joomla-cms ]
+$ make joomla-1.0.ga.po
+.... translate ...
+Update version numbers at top of makefile
+$ make
+Then add/commit any important changes; to revert changes I don’t care to keep (modified date in the xml’s, etc.), use 
+$ git reset --hard
